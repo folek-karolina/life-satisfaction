@@ -35,6 +35,7 @@ Based on principal component analysis, the countries formed six groups that achi
 Countries belonging to the relevant groups, formed on the basis of cluster analysis, are shown on a map of Europe:
 
 ![Life Map](images/life_map.png)
+
 Source: Own development using the Datawrapper.de
 
 
